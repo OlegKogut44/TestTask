@@ -1,0 +1,19 @@
+{
+  "name": "test_task_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
